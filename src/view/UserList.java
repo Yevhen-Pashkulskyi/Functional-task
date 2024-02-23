@@ -13,7 +13,7 @@ public class UserList {
         users.add(new User("Богдан", "0677654321"));
         users.add(new User("Віктор", "0507654321"));
         users.add(new User("Галина", "0501234567"));
-        users.add(new User("Галина", "0501234567"));
+        users.add(new User("Федор", "0631234567"));
 
         return users;
     }
